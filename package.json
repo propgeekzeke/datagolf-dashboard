@@ -1,7 +1,0 @@
-{
-  "name": "datagolf-dashboard",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node datagolf-players.js"
-  }
-}
